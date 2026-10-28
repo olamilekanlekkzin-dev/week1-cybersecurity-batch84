@@ -1,6 +1,6 @@
 # week1-cybersecurity-batch84
 cybersecurity lab setup
-<img width="3840" height="2160" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/c20e22d7-d537-4eb0-bc2d-34954a7af125" />
+<img width="3840" height="2160" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c7975faa-233c-4682-8f91-9a30d51111e4" />
 <img width="3840" height="2160" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3549059c-0f21-477f-9972-e70f0e02b519" />
 <img width="3840" height="2160" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f9cdeed7-841a-4dd8-872a-e6846074b519" />
 extra project (wireshark packet capture)
